@@ -1,1 +1,3 @@
-# 112
+In the upcoming semester, I will continue to study the fundamental concepts of electrical engineering, including alternating current (AC) circuits. I plan to learn about the characteristics of sinusoidal AC, the effective value, peak value, and phase angle. Additionally, I will study the analysis of pure resistive, inductive, and capacitive circuits, the calculation of impedance, and the formulas for AC power (active, reactive, and apparent power).
+
+To deepen my understanding of these core concepts and formulas, I will continue to systematically organize the key points from the course into notes. My notes will include class explanations, textbook examples, and the formulas and problem-solving techniques I develop. I will also incorporate hand-drawn phasor diagrams and circuit diagrams to help me visualize and better understand the behavior of AC circuits.
